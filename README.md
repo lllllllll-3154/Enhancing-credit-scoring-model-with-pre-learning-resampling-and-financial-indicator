@@ -1,4 +1,7 @@
-# Group 11 Project
+# Enhancing credit scoring model with pre-learning resampling and financial indicator
+# FITE7410-A GROUP11
+## Author: Chen Qixun, Luo Xingjian, Luan Jianduo, Pu Zihao
+
 
 ## Background 
 We retrieve the data set from Kaggle https://www.kaggle.com/mishra5001/credit-card?select=application_data.csv. The data was collected from one social experiment providing public inferences of how a person applying for loan can get it completed in a minimal amount of time. Our main object is to detect the fraud case.
